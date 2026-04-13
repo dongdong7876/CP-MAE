@@ -94,7 +94,3 @@ During the testing phase, the script will automatically calculate and output com
 - Range-based Metrics: **Range-AUC-ROC, Range-AUC-PR**
 
 Results are appended and saved to `results/results_CP-MAE.csv` and logged in the `result/` folder.
-
-## 📄 License
-
-This project is licensed under the MIT License.
