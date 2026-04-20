@@ -2,7 +2,7 @@
 
 > 🚨 **CONFIDENTIALITY NOTICE & NOTE TO REVIEWERS**
 >
-> This repository contains the official source code for the manuscript: **"CP-MAE: Contextual Predictability Masked Autoencoder for Robust Time Series Anomaly Detection"**, which is currently under review at **Knowledge-Based Systems (KBS)**.
+> This repository contains the official source code for the manuscript: **"A Contextual Predictability Masked Autoencoder for Time Series Anomaly Detection under Contaminated Training Data"**, which is currently under review at **Applied Intelligence**.
 >
 > **Intellectual Property & Usage Restriction:**
 > This codebase is provided **solely for the purpose of peer review** by the handling editors and reviewers of the journal. To protect the intellectual property of our novel CP-MAE framework prior to formal publication, we currently restrict the usage of this code strictly to academic evaluation. 
