@@ -1,4 +1,4 @@
-# CP-MAE: Contextual Predictability Masked Autoencoder for Robust Time Series Anomaly Detection
+# A Contextual Predictability Masked Autoencoder for Time Series Anomaly Detection under Contaminated Training Data
 
 > 🚨 **CONFIDENTIALITY NOTICE & NOTE TO REVIEWERS**
 >
@@ -12,7 +12,7 @@
 >
 > Thank you for your time and effort in reviewing our work.
 
-This repository contains the official PyTorch implementation of the paper **"CP-MAE: Contextual Predictability Masked Autoencoder for Robust Time Series Anomaly Detection"**.
+This repository contains the official PyTorch implementation of the paper **"A Contextual Predictability Masked Autoencoder for Time Series Anomaly Detection under Contaminated Training Data"**.
 
 ## 🛠️ Requirements
 
