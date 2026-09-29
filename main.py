@@ -37,6 +37,16 @@ def main(config):
         os.mkdir(config.model_save_path)
     solver = Solver(vars(config))
 
+    # The shipped coverage-aware mask generator loops over the batch in Python and
+    # runs once per epoch inside vali(), which dominates training time. Install the
+    # vectorised equivalent when it is available; it is verified to match.
+    try:
+        sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), 'exp'))
+        import fast_masks
+        fast_masks.install(solver.model)
+    except Exception as exc:
+        print(f'[warn] vectorised masks unavailable ({exc}); training will be slow')
+
     if config.mode == 'train':
         solver.train()
     elif config.mode == 'test':
@@ -46,7 +56,7 @@ def main(config):
         results_pd = solver.test()
 
         result = np.array(
-            [config.dataset, 'CP-MAE', config.num_patch])
+            [config.dataset, 'CP-MAE', str(config.num_patch)])
         column_names = ['data_name', 'algo', 'num_patch']
         result_df = pd.DataFrame([result], columns=column_names)
 

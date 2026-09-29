@@ -1,0 +1,6 @@
+dataset,rung,description,run_seed,batch_size,metric,value
+WADI,L7,unified spatio-temporal encoder,0,512,AUC_ROC,0.8107
+WADI,L7,unified spatio-temporal encoder,0,512,R_AUC_ROC,0.9021
+WADI,L7,unified spatio-temporal encoder,0,512,R_AUC_PR,0.3929
+WADI,L7,unified spatio-temporal encoder,0,512,VUS_ROC,0.8815
+WADI,L7,unified spatio-temporal encoder,0,512,VUS_PR,0.3763

@@ -1,0 +1,201 @@
+dataset,rung,description,run_seed,batch_size,metric,value
+WADI,L0,base masked autoencoder,0,512,AUC_ROC,0.7619
+WADI,L0,base masked autoencoder,0,512,R_AUC_ROC,0.8685
+WADI,L0,base masked autoencoder,0,512,R_AUC_PR,0.3125
+WADI,L0,base masked autoencoder,0,512,VUS_ROC,0.8506
+WADI,L0,base masked autoencoder,0,512,VUS_PR,0.3096
+WADI,L0,base masked autoencoder,1,512,AUC_ROC,0.7636
+WADI,L0,base masked autoencoder,1,512,R_AUC_ROC,0.876
+WADI,L0,base masked autoencoder,1,512,R_AUC_PR,0.3253
+WADI,L0,base masked autoencoder,1,512,VUS_ROC,0.857
+WADI,L0,base masked autoencoder,1,512,VUS_PR,0.321
+WADI,L0,base masked autoencoder,2,512,AUC_ROC,0.7553
+WADI,L0,base masked autoencoder,2,512,R_AUC_ROC,0.8684
+WADI,L0,base masked autoencoder,2,512,R_AUC_PR,0.3132
+WADI,L0,base masked autoencoder,2,512,VUS_ROC,0.8493
+WADI,L0,base masked autoencoder,2,512,VUS_PR,0.3094
+WADI,L0,base masked autoencoder,3,512,AUC_ROC,0.7696
+WADI,L0,base masked autoencoder,3,512,R_AUC_ROC,0.8741
+WADI,L0,base masked autoencoder,3,512,R_AUC_PR,0.3161
+WADI,L0,base masked autoencoder,3,512,VUS_ROC,0.8564
+WADI,L0,base masked autoencoder,3,512,VUS_PR,0.313
+WADI,L0,base masked autoencoder,4,512,AUC_ROC,0.759
+WADI,L0,base masked autoencoder,4,512,R_AUC_ROC,0.8728
+WADI,L0,base masked autoencoder,4,512,R_AUC_PR,0.314
+WADI,L0,base masked autoencoder,4,512,VUS_ROC,0.8541
+WADI,L0,base masked autoencoder,4,512,VUS_PR,0.31
+WADI,L1,+ high training masking,0,512,AUC_ROC,0.762
+WADI,L1,+ high training masking,0,512,R_AUC_ROC,0.8554
+WADI,L1,+ high training masking,0,512,R_AUC_PR,0.2999
+WADI,L1,+ high training masking,0,512,VUS_ROC,0.8409
+WADI,L1,+ high training masking,0,512,VUS_PR,0.2977
+WADI,L1,+ high training masking,1,512,AUC_ROC,0.7707
+WADI,L1,+ high training masking,1,512,R_AUC_ROC,0.87
+WADI,L1,+ high training masking,1,512,R_AUC_PR,0.3167
+WADI,L1,+ high training masking,1,512,VUS_ROC,0.8566
+WADI,L1,+ high training masking,1,512,VUS_PR,0.3116
+WADI,L1,+ high training masking,2,512,AUC_ROC,0.7337
+WADI,L1,+ high training masking,2,512,R_AUC_ROC,0.854
+WADI,L1,+ high training masking,2,512,R_AUC_PR,0.3016
+WADI,L1,+ high training masking,2,512,VUS_ROC,0.834
+WADI,L1,+ high training masking,2,512,VUS_PR,0.2991
+WADI,L1,+ high training masking,3,512,AUC_ROC,0.7577
+WADI,L1,+ high training masking,3,512,R_AUC_ROC,0.8652
+WADI,L1,+ high training masking,3,512,R_AUC_PR,0.3078
+WADI,L1,+ high training masking,3,512,VUS_ROC,0.8472
+WADI,L1,+ high training masking,3,512,VUS_PR,0.3054
+WADI,L1,+ high training masking,4,512,AUC_ROC,0.7367
+WADI,L1,+ high training masking,4,512,R_AUC_ROC,0.8518
+WADI,L1,+ high training masking,4,512,R_AUC_PR,0.2962
+WADI,L1,+ high training masking,4,512,VUS_ROC,0.8333
+WADI,L1,+ high training masking,4,512,VUS_PR,0.2925
+WADI,L2,+ Monte Carlo averaging,0,512,AUC_ROC,0.7944
+WADI,L2,+ Monte Carlo averaging,0,512,R_AUC_ROC,0.9004
+WADI,L2,+ Monte Carlo averaging,0,512,R_AUC_PR,0.3541
+WADI,L2,+ Monte Carlo averaging,0,512,VUS_ROC,0.8812
+WADI,L2,+ Monte Carlo averaging,0,512,VUS_PR,0.3451
+WADI,L2,+ Monte Carlo averaging,1,512,AUC_ROC,0.7702
+WADI,L2,+ Monte Carlo averaging,1,512,R_AUC_ROC,0.8861
+WADI,L2,+ Monte Carlo averaging,1,512,R_AUC_PR,0.3335
+WADI,L2,+ Monte Carlo averaging,1,512,VUS_ROC,0.8655
+WADI,L2,+ Monte Carlo averaging,1,512,VUS_PR,0.3266
+WADI,L2,+ Monte Carlo averaging,2,512,AUC_ROC,0.7852
+WADI,L2,+ Monte Carlo averaging,2,512,R_AUC_ROC,0.8844
+WADI,L2,+ Monte Carlo averaging,2,512,R_AUC_PR,0.3411
+WADI,L2,+ Monte Carlo averaging,2,512,VUS_ROC,0.8678
+WADI,L2,+ Monte Carlo averaging,2,512,VUS_PR,0.3343
+WADI,L2,+ Monte Carlo averaging,3,512,AUC_ROC,0.7991
+WADI,L2,+ Monte Carlo averaging,3,512,R_AUC_ROC,0.9017
+WADI,L2,+ Monte Carlo averaging,3,512,R_AUC_PR,0.3555
+WADI,L2,+ Monte Carlo averaging,3,512,VUS_ROC,0.8832
+WADI,L2,+ Monte Carlo averaging,3,512,VUS_PR,0.3481
+WADI,L2,+ Monte Carlo averaging,4,512,AUC_ROC,0.7801
+WADI,L2,+ Monte Carlo averaging,4,512,R_AUC_ROC,0.8912
+WADI,L2,+ Monte Carlo averaging,4,512,R_AUC_PR,0.3438
+WADI,L2,+ Monte Carlo averaging,4,512,VUS_ROC,0.8716
+WADI,L2,+ Monte Carlo averaging,4,512,VUS_PR,0.3353
+WADI,L3,+ coverage-aware masks,0,512,AUC_ROC,0.7595
+WADI,L3,+ coverage-aware masks,0,512,R_AUC_ROC,0.8684
+WADI,L3,+ coverage-aware masks,0,512,R_AUC_PR,0.3312
+WADI,L3,+ coverage-aware masks,0,512,VUS_ROC,0.8501
+WADI,L3,+ coverage-aware masks,0,512,VUS_PR,0.3247
+WADI,L3,+ coverage-aware masks,1,512,AUC_ROC,0.7823
+WADI,L3,+ coverage-aware masks,1,512,R_AUC_ROC,0.8913
+WADI,L3,+ coverage-aware masks,1,512,R_AUC_PR,0.3472
+WADI,L3,+ coverage-aware masks,1,512,VUS_ROC,0.8719
+WADI,L3,+ coverage-aware masks,1,512,VUS_PR,0.3417
+WADI,L3,+ coverage-aware masks,2,512,AUC_ROC,0.7883
+WADI,L3,+ coverage-aware masks,2,512,R_AUC_ROC,0.8915
+WADI,L3,+ coverage-aware masks,2,512,R_AUC_PR,0.3409
+WADI,L3,+ coverage-aware masks,2,512,VUS_ROC,0.8738
+WADI,L3,+ coverage-aware masks,2,512,VUS_PR,0.3326
+WADI,L3,+ coverage-aware masks,3,512,AUC_ROC,0.7804
+WADI,L3,+ coverage-aware masks,3,512,R_AUC_ROC,0.8787
+WADI,L3,+ coverage-aware masks,3,512,R_AUC_PR,0.329
+WADI,L3,+ coverage-aware masks,3,512,VUS_ROC,0.8612
+WADI,L3,+ coverage-aware masks,3,512,VUS_PR,0.3224
+WADI,L3,+ coverage-aware masks,4,512,AUC_ROC,0.7872
+WADI,L3,+ coverage-aware masks,4,512,R_AUC_ROC,0.8904
+WADI,L3,+ coverage-aware masks,4,512,R_AUC_PR,0.3392
+WADI,L3,+ coverage-aware masks,4,512,VUS_ROC,0.8723
+WADI,L3,+ coverage-aware masks,4,512,VUS_PR,0.3318
+WADI,L4,+ variance term,0,512,AUC_ROC,0.8306
+WADI,L4,+ variance term,0,512,R_AUC_ROC,0.8988
+WADI,L4,+ variance term,0,512,R_AUC_PR,0.3582
+WADI,L4,+ variance term,0,512,VUS_ROC,0.8859
+WADI,L4,+ variance term,0,512,VUS_PR,0.3485
+WADI,L4,+ variance term,1,512,AUC_ROC,0.8313
+WADI,L4,+ variance term,1,512,R_AUC_ROC,0.9006
+WADI,L4,+ variance term,1,512,R_AUC_PR,0.3664
+WADI,L4,+ variance term,1,512,VUS_ROC,0.888
+WADI,L4,+ variance term,1,512,VUS_PR,0.3565
+WADI,L4,+ variance term,2,512,AUC_ROC,0.831
+WADI,L4,+ variance term,2,512,R_AUC_ROC,0.8991
+WADI,L4,+ variance term,2,512,R_AUC_PR,0.3615
+WADI,L4,+ variance term,2,512,VUS_ROC,0.8866
+WADI,L4,+ variance term,2,512,VUS_PR,0.3523
+WADI,L4,+ variance term,3,512,AUC_ROC,0.8318
+WADI,L4,+ variance term,3,512,R_AUC_ROC,0.9001
+WADI,L4,+ variance term,3,512,R_AUC_PR,0.362
+WADI,L4,+ variance term,3,512,VUS_ROC,0.8868
+WADI,L4,+ variance term,3,512,VUS_PR,0.3531
+WADI,L4,+ variance term,4,512,AUC_ROC,0.8298
+WADI,L4,+ variance term,4,512,R_AUC_ROC,0.899
+WADI,L4,+ variance term,4,512,R_AUC_PR,0.3572
+WADI,L4,+ variance term,4,512,VUS_ROC,0.8856
+WADI,L4,+ variance term,4,512,VUS_PR,0.3468
+WADI,L5,+ frequency branch,0,512,AUC_ROC,0.805
+WADI,L5,+ frequency branch,0,512,R_AUC_ROC,0.8878
+WADI,L5,+ frequency branch,0,512,R_AUC_PR,0.3505
+WADI,L5,+ frequency branch,0,512,VUS_ROC,0.8707
+WADI,L5,+ frequency branch,0,512,VUS_PR,0.3377
+WADI,L5,+ frequency branch,1,512,AUC_ROC,0.8129
+WADI,L5,+ frequency branch,1,512,R_AUC_ROC,0.8919
+WADI,L5,+ frequency branch,1,512,R_AUC_PR,0.3577
+WADI,L5,+ frequency branch,1,512,VUS_ROC,0.8764
+WADI,L5,+ frequency branch,1,512,VUS_PR,0.3467
+WADI,L5,+ frequency branch,2,512,AUC_ROC,0.8165
+WADI,L5,+ frequency branch,2,512,R_AUC_ROC,0.8927
+WADI,L5,+ frequency branch,2,512,R_AUC_PR,0.3629
+WADI,L5,+ frequency branch,2,512,VUS_ROC,0.8765
+WADI,L5,+ frequency branch,2,512,VUS_PR,0.3494
+WADI,L5,+ frequency branch,3,512,AUC_ROC,0.8134
+WADI,L5,+ frequency branch,3,512,R_AUC_ROC,0.8915
+WADI,L5,+ frequency branch,3,512,R_AUC_PR,0.3601
+WADI,L5,+ frequency branch,3,512,VUS_ROC,0.8729
+WADI,L5,+ frequency branch,3,512,VUS_PR,0.3451
+WADI,L5,+ frequency branch,4,512,AUC_ROC,0.8044
+WADI,L5,+ frequency branch,4,512,R_AUC_ROC,0.8933
+WADI,L5,+ frequency branch,4,512,R_AUC_PR,0.354
+WADI,L5,+ frequency branch,4,512,VUS_ROC,0.8752
+WADI,L5,+ frequency branch,4,512,VUS_PR,0.3405
+WADI,L6,+ multi-scale (CP-MAE),0,512,AUC_ROC,0.8142
+WADI,L6,+ multi-scale (CP-MAE),0,512,R_AUC_ROC,0.9048
+WADI,L6,+ multi-scale (CP-MAE),0,512,R_AUC_PR,0.3827
+WADI,L6,+ multi-scale (CP-MAE),0,512,VUS_ROC,0.8843
+WADI,L6,+ multi-scale (CP-MAE),0,512,VUS_PR,0.3713
+WADI,L6,+ multi-scale (CP-MAE),1,512,AUC_ROC,0.809
+WADI,L6,+ multi-scale (CP-MAE),1,512,R_AUC_ROC,0.8946
+WADI,L6,+ multi-scale (CP-MAE),1,512,R_AUC_PR,0.3667
+WADI,L6,+ multi-scale (CP-MAE),1,512,VUS_ROC,0.8746
+WADI,L6,+ multi-scale (CP-MAE),1,512,VUS_PR,0.3544
+WADI,L6,+ multi-scale (CP-MAE),2,512,AUC_ROC,0.8167
+WADI,L6,+ multi-scale (CP-MAE),2,512,R_AUC_ROC,0.8976
+WADI,L6,+ multi-scale (CP-MAE),2,512,R_AUC_PR,0.3693
+WADI,L6,+ multi-scale (CP-MAE),2,512,VUS_ROC,0.8817
+WADI,L6,+ multi-scale (CP-MAE),2,512,VUS_PR,0.3593
+WADI,L6,+ multi-scale (CP-MAE),3,512,AUC_ROC,0.8051
+WADI,L6,+ multi-scale (CP-MAE),3,512,R_AUC_ROC,0.8994
+WADI,L6,+ multi-scale (CP-MAE),3,512,R_AUC_PR,0.3666
+WADI,L6,+ multi-scale (CP-MAE),3,512,VUS_ROC,0.8782
+WADI,L6,+ multi-scale (CP-MAE),3,512,VUS_PR,0.3544
+WADI,L6,+ multi-scale (CP-MAE),4,512,AUC_ROC,0.8044
+WADI,L6,+ multi-scale (CP-MAE),4,512,R_AUC_ROC,0.8939
+WADI,L6,+ multi-scale (CP-MAE),4,512,R_AUC_PR,0.3626
+WADI,L6,+ multi-scale (CP-MAE),4,512,VUS_ROC,0.874
+WADI,L6,+ multi-scale (CP-MAE),4,512,VUS_PR,0.3508
+WADI,L5b,"L4 + multi-scale, time branch only",0,512,AUC_ROC,0.8287
+WADI,L5b,"L4 + multi-scale, time branch only",0,512,R_AUC_ROC,0.9006
+WADI,L5b,"L4 + multi-scale, time branch only",0,512,R_AUC_PR,0.3615
+WADI,L5b,"L4 + multi-scale, time branch only",0,512,VUS_ROC,0.8868
+WADI,L5b,"L4 + multi-scale, time branch only",0,512,VUS_PR,0.3526
+WADI,L5b,"L4 + multi-scale, time branch only",1,512,AUC_ROC,0.8298
+WADI,L5b,"L4 + multi-scale, time branch only",1,512,R_AUC_ROC,0.8998
+WADI,L5b,"L4 + multi-scale, time branch only",1,512,R_AUC_PR,0.3629
+WADI,L5b,"L4 + multi-scale, time branch only",1,512,VUS_ROC,0.8866
+WADI,L5b,"L4 + multi-scale, time branch only",1,512,VUS_PR,0.3536
+WADI,L5b,"L4 + multi-scale, time branch only",2,512,AUC_ROC,0.8257
+WADI,L5b,"L4 + multi-scale, time branch only",2,512,R_AUC_ROC,0.9013
+WADI,L5b,"L4 + multi-scale, time branch only",2,512,R_AUC_PR,0.3649
+WADI,L5b,"L4 + multi-scale, time branch only",2,512,VUS_ROC,0.8876
+WADI,L5b,"L4 + multi-scale, time branch only",2,512,VUS_PR,0.3563
+WADI,L5b,"L4 + multi-scale, time branch only",3,512,AUC_ROC,0.8294
+WADI,L5b,"L4 + multi-scale, time branch only",3,512,R_AUC_ROC,0.8999
+WADI,L5b,"L4 + multi-scale, time branch only",3,512,R_AUC_PR,0.3611
+WADI,L5b,"L4 + multi-scale, time branch only",3,512,VUS_ROC,0.8864
+WADI,L5b,"L4 + multi-scale, time branch only",3,512,VUS_PR,0.3514
+WADI,L5b,"L4 + multi-scale, time branch only",4,512,AUC_ROC,0.8277
+WADI,L5b,"L4 + multi-scale, time branch only",4,512,R_AUC_ROC,0.9
+WADI,L5b,"L4 + multi-scale, time branch only",4,512,R_AUC_PR,0.3605
+WADI,L5b,"L4 + multi-scale, time branch only",4,512,VUS_ROC,0.8862
+WADI,L5b,"L4 + multi-scale, time branch only",4,512,VUS_PR,0.351

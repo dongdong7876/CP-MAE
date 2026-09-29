@@ -1,0 +1,26 @@
+dataset,rung,description,run_seed,batch_size,metric,value
+SMD,L7,unified spatio-temporal encoder,0,2048,AUC_ROC,0.8097
+SMD,L7,unified spatio-temporal encoder,0,2048,R_AUC_ROC,0.8281
+SMD,L7,unified spatio-temporal encoder,0,2048,R_AUC_PR,0.2053
+SMD,L7,unified spatio-temporal encoder,0,2048,VUS_ROC,0.8252
+SMD,L7,unified spatio-temporal encoder,0,2048,VUS_PR,0.2049
+SMD,L7,unified spatio-temporal encoder,1,2048,AUC_ROC,0.8006
+SMD,L7,unified spatio-temporal encoder,1,2048,R_AUC_ROC,0.8197
+SMD,L7,unified spatio-temporal encoder,1,2048,R_AUC_PR,0.2046
+SMD,L7,unified spatio-temporal encoder,1,2048,VUS_ROC,0.8167
+SMD,L7,unified spatio-temporal encoder,1,2048,VUS_PR,0.2041
+SMD,L7,unified spatio-temporal encoder,2,2048,AUC_ROC,0.8093
+SMD,L7,unified spatio-temporal encoder,2,2048,R_AUC_ROC,0.8298
+SMD,L7,unified spatio-temporal encoder,2,2048,R_AUC_PR,0.2135
+SMD,L7,unified spatio-temporal encoder,2,2048,VUS_ROC,0.8268
+SMD,L7,unified spatio-temporal encoder,2,2048,VUS_PR,0.213
+SMD,L7,unified spatio-temporal encoder,3,2048,AUC_ROC,0.8203
+SMD,L7,unified spatio-temporal encoder,3,2048,R_AUC_ROC,0.8411
+SMD,L7,unified spatio-temporal encoder,3,2048,R_AUC_PR,0.2382
+SMD,L7,unified spatio-temporal encoder,3,2048,VUS_ROC,0.8378
+SMD,L7,unified spatio-temporal encoder,3,2048,VUS_PR,0.2375
+SMD,L7,unified spatio-temporal encoder,4,2048,AUC_ROC,0.8055
+SMD,L7,unified spatio-temporal encoder,4,2048,R_AUC_ROC,0.8243
+SMD,L7,unified spatio-temporal encoder,4,2048,R_AUC_PR,0.2034
+SMD,L7,unified spatio-temporal encoder,4,2048,VUS_ROC,0.8214
+SMD,L7,unified spatio-temporal encoder,4,2048,VUS_PR,0.2028

@@ -1,0 +1,26 @@
+dataset,rung,description,run_seed,batch_size,metric,value
+WADI,L7,unified spatio-temporal encoder,0,512,AUC_ROC,0.8107
+WADI,L7,unified spatio-temporal encoder,0,512,R_AUC_ROC,0.9021
+WADI,L7,unified spatio-temporal encoder,0,512,R_AUC_PR,0.3929
+WADI,L7,unified spatio-temporal encoder,0,512,VUS_ROC,0.8815
+WADI,L7,unified spatio-temporal encoder,0,512,VUS_PR,0.3763
+WADI,L7,unified spatio-temporal encoder,1,512,AUC_ROC,0.814
+WADI,L7,unified spatio-temporal encoder,1,512,R_AUC_ROC,0.9033
+WADI,L7,unified spatio-temporal encoder,1,512,R_AUC_PR,0.4103
+WADI,L7,unified spatio-temporal encoder,1,512,VUS_ROC,0.8821
+WADI,L7,unified spatio-temporal encoder,1,512,VUS_PR,0.3907
+WADI,L7,unified spatio-temporal encoder,2,512,AUC_ROC,0.8164
+WADI,L7,unified spatio-temporal encoder,2,512,R_AUC_ROC,0.9039
+WADI,L7,unified spatio-temporal encoder,2,512,R_AUC_PR,0.4025
+WADI,L7,unified spatio-temporal encoder,2,512,VUS_ROC,0.8823
+WADI,L7,unified spatio-temporal encoder,2,512,VUS_PR,0.3847
+WADI,L7,unified spatio-temporal encoder,3,512,AUC_ROC,0.7944
+WADI,L7,unified spatio-temporal encoder,3,512,R_AUC_ROC,0.8988
+WADI,L7,unified spatio-temporal encoder,3,512,R_AUC_PR,0.3953
+WADI,L7,unified spatio-temporal encoder,3,512,VUS_ROC,0.8752
+WADI,L7,unified spatio-temporal encoder,3,512,VUS_PR,0.3781
+WADI,L7,unified spatio-temporal encoder,4,512,AUC_ROC,0.8051
+WADI,L7,unified spatio-temporal encoder,4,512,R_AUC_ROC,0.8979
+WADI,L7,unified spatio-temporal encoder,4,512,R_AUC_PR,0.3773
+WADI,L7,unified spatio-temporal encoder,4,512,VUS_ROC,0.8768
+WADI,L7,unified spatio-temporal encoder,4,512,VUS_PR,0.3638

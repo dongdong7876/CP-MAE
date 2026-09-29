@@ -1,0 +1,47 @@
+Detection quality per ground-truth segment duration
+
+  dataset     duration  segments  mean pct-rank detected@1%
+  LTDB          20-100         5          0.475        0.00
+  LTDB         100-500       130          0.706        0.61
+  LTDB          20-100         5          0.539        0.00
+  LTDB         100-500       130          0.637        0.72
+  LTDB          20-100         5          0.494        0.00
+  LTDB         100-500       130          0.635        0.62
+  PSM             0-20        11          0.763        0.36
+  PSM           20-100         7          0.550        0.00
+  PSM          100-500         5          0.255        0.00
+  PSM          500-inf         6          0.651        0.67
+  PSM             0-20        11          0.768        0.36
+  PSM           20-100         7          0.604        0.00
+  PSM          100-500         5          0.264        0.00
+  PSM          500-inf         6          0.663        0.83
+  PSM             0-20        11          0.770        0.36
+  PSM           20-100         7          0.567        0.00
+  PSM          100-500         5          0.266        0.00
+  PSM          500-inf         6          0.655        0.83
+  SMD             0-20        37          0.804        0.70
+  SMD           20-100        20          0.796        0.55
+  SMD          100-500        14          0.871        0.86
+  SMD          500-inf         3          0.780        1.00
+  SMD             0-20        37          0.782        0.70
+  SMD           20-100        20          0.783        0.60
+  SMD          100-500        14          0.849        1.00
+  SMD          500-inf         3          0.742        1.00
+  SMD             0-20        37          0.809        0.78
+  SMD           20-100        20          0.805        0.60
+  SMD          100-500        14          0.854        1.00
+  SMD          500-inf         3          0.754        1.00
+  SWaT         100-500         8          0.833        0.25
+  SWaT         500-inf         3          0.792        0.00
+  SWaT         100-500         8          0.823        0.12
+  SWaT         500-inf         3          0.869        0.00
+  SWaT         100-500         8          0.829        0.12
+  SWaT         500-inf         3          0.822        0.00
+  WADI            0-20         1          0.798        0.00
+  WADI          20-100         6          0.754        0.50
+  WADI            0-20         1          0.816        0.00
+  WADI          20-100         6          0.735        0.50
+  WADI            0-20         1          0.841        0.00
+  WADI          20-100         6          0.739        0.50
+
+A low percentile rank on a duration bucket is a failure mode; report it in Section 4.5.

@@ -1,0 +1,8 @@
+# Outputs of the revision experiments. The summary CSVs the figure scripts
+# read are versioned; the raw score arrays, the logs and the discarded runs
+# are not, and are attached to the tagged release instead.
+results/.done/
+results/_void/
+results/logs/
+__pycache__/
+*.pyc

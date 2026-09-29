@@ -1,0 +1,416 @@
+dataset,rung,description,run_seed,batch_size,metric,value
+SMD,L0,base masked autoencoder,0,2048.0,AUC_ROC,0.7264
+SMD,L0,base masked autoencoder,0,2048.0,R_AUC_ROC,0.7521
+SMD,L0,base masked autoencoder,0,2048.0,R_AUC_PR,0.1232
+SMD,L0,base masked autoencoder,0,2048.0,VUS_ROC,0.7497
+SMD,L0,base masked autoencoder,0,2048.0,VUS_PR,0.1232
+SMD,L0,base masked autoencoder,1,2048.0,AUC_ROC,0.7503
+SMD,L0,base masked autoencoder,1,2048.0,R_AUC_ROC,0.7707
+SMD,L0,base masked autoencoder,1,2048.0,R_AUC_PR,0.1486
+SMD,L0,base masked autoencoder,1,2048.0,VUS_ROC,0.7686
+SMD,L0,base masked autoencoder,1,2048.0,VUS_PR,0.1486
+SMD,L0,base masked autoencoder,2,2048.0,AUC_ROC,0.7225
+SMD,L0,base masked autoencoder,2,2048.0,R_AUC_ROC,0.7474
+SMD,L0,base masked autoencoder,2,2048.0,R_AUC_PR,0.1306
+SMD,L0,base masked autoencoder,2,2048.0,VUS_ROC,0.7453
+SMD,L0,base masked autoencoder,2,2048.0,VUS_PR,0.1306
+SMD,L0,base masked autoencoder,3,2048.0,AUC_ROC,0.7475
+SMD,L0,base masked autoencoder,3,2048.0,R_AUC_ROC,0.7703
+SMD,L0,base masked autoencoder,3,2048.0,R_AUC_PR,0.146
+SMD,L0,base masked autoencoder,3,2048.0,VUS_ROC,0.7681
+SMD,L0,base masked autoencoder,3,2048.0,VUS_PR,0.146
+SMD,L0,base masked autoencoder,4,2048.0,AUC_ROC,0.7134
+SMD,L0,base masked autoencoder,4,2048.0,R_AUC_ROC,0.7406
+SMD,L0,base masked autoencoder,4,2048.0,R_AUC_PR,0.1255
+SMD,L0,base masked autoencoder,4,2048.0,VUS_ROC,0.7383
+SMD,L0,base masked autoencoder,4,2048.0,VUS_PR,0.1256
+SMD,L1,+ high training masking,0,2048.0,AUC_ROC,0.6754
+SMD,L1,+ high training masking,0,2048.0,R_AUC_ROC,0.708
+SMD,L1,+ high training masking,0,2048.0,R_AUC_PR,0.112
+SMD,L1,+ high training masking,0,2048.0,VUS_ROC,0.7057
+SMD,L1,+ high training masking,0,2048.0,VUS_PR,0.1121
+SMD,L1,+ high training masking,1,2048.0,AUC_ROC,0.7131
+SMD,L1,+ high training masking,1,2048.0,R_AUC_ROC,0.7411
+SMD,L1,+ high training masking,1,2048.0,R_AUC_PR,0.1329
+SMD,L1,+ high training masking,1,2048.0,VUS_ROC,0.7387
+SMD,L1,+ high training masking,1,2048.0,VUS_PR,0.1328
+SMD,L1,+ high training masking,2,2048.0,AUC_ROC,0.6977
+SMD,L1,+ high training masking,2,2048.0,R_AUC_ROC,0.7266
+SMD,L1,+ high training masking,2,2048.0,R_AUC_PR,0.1283
+SMD,L1,+ high training masking,2,2048.0,VUS_ROC,0.724
+SMD,L1,+ high training masking,2,2048.0,VUS_PR,0.1282
+SMD,L1,+ high training masking,3,2048.0,AUC_ROC,0.7041
+SMD,L1,+ high training masking,3,2048.0,R_AUC_ROC,0.7334
+SMD,L1,+ high training masking,3,2048.0,R_AUC_PR,0.1329
+SMD,L1,+ high training masking,3,2048.0,VUS_ROC,0.7311
+SMD,L1,+ high training masking,3,2048.0,VUS_PR,0.133
+SMD,L1,+ high training masking,4,2048.0,AUC_ROC,0.7045
+SMD,L1,+ high training masking,4,2048.0,R_AUC_ROC,0.7332
+SMD,L1,+ high training masking,4,2048.0,R_AUC_PR,0.1251
+SMD,L1,+ high training masking,4,2048.0,VUS_ROC,0.7309
+SMD,L1,+ high training masking,4,2048.0,VUS_PR,0.1251
+SMD,L2,+ Monte Carlo averaging,0,2048.0,AUC_ROC,0.7652
+SMD,L2,+ Monte Carlo averaging,0,2048.0,R_AUC_ROC,0.785
+SMD,L2,+ Monte Carlo averaging,0,2048.0,R_AUC_PR,0.1497
+SMD,L2,+ Monte Carlo averaging,0,2048.0,VUS_ROC,0.783
+SMD,L2,+ Monte Carlo averaging,0,2048.0,VUS_PR,0.1497
+SMD,L2,+ Monte Carlo averaging,1,2048.0,AUC_ROC,0.7646
+SMD,L2,+ Monte Carlo averaging,1,2048.0,R_AUC_ROC,0.7844
+SMD,L2,+ Monte Carlo averaging,1,2048.0,R_AUC_PR,0.1786
+SMD,L2,+ Monte Carlo averaging,1,2048.0,VUS_ROC,0.7824
+SMD,L2,+ Monte Carlo averaging,1,2048.0,VUS_PR,0.1785
+SMD,L2,+ Monte Carlo averaging,2,2048.0,AUC_ROC,0.7793
+SMD,L2,+ Monte Carlo averaging,2,2048.0,R_AUC_ROC,0.7974
+SMD,L2,+ Monte Carlo averaging,2,2048.0,R_AUC_PR,0.211
+SMD,L2,+ Monte Carlo averaging,2,2048.0,VUS_ROC,0.7957
+SMD,L2,+ Monte Carlo averaging,2,2048.0,VUS_PR,0.2106
+SMD,L2,+ Monte Carlo averaging,3,2048.0,AUC_ROC,0.7669
+SMD,L2,+ Monte Carlo averaging,3,2048.0,R_AUC_ROC,0.7862
+SMD,L2,+ Monte Carlo averaging,3,2048.0,R_AUC_PR,0.185
+SMD,L2,+ Monte Carlo averaging,3,2048.0,VUS_ROC,0.7844
+SMD,L2,+ Monte Carlo averaging,3,2048.0,VUS_PR,0.1849
+SMD,L2,+ Monte Carlo averaging,4,2048.0,AUC_ROC,0.7355
+SMD,L2,+ Monte Carlo averaging,4,2048.0,R_AUC_ROC,0.7601
+SMD,L2,+ Monte Carlo averaging,4,2048.0,R_AUC_PR,0.1326
+SMD,L2,+ Monte Carlo averaging,4,2048.0,VUS_ROC,0.7576
+SMD,L2,+ Monte Carlo averaging,4,2048.0,VUS_PR,0.1325
+SMD,L3,+ coverage-aware masks,0,2048.0,AUC_ROC,0.7756
+SMD,L3,+ coverage-aware masks,0,2048.0,R_AUC_ROC,0.7961
+SMD,L3,+ coverage-aware masks,0,2048.0,R_AUC_PR,0.1914
+SMD,L3,+ coverage-aware masks,0,2048.0,VUS_ROC,0.7942
+SMD,L3,+ coverage-aware masks,0,2048.0,VUS_PR,0.1912
+SMD,L3,+ coverage-aware masks,1,2048.0,AUC_ROC,0.7636
+SMD,L3,+ coverage-aware masks,1,2048.0,R_AUC_ROC,0.7835
+SMD,L3,+ coverage-aware masks,1,2048.0,R_AUC_PR,0.1777
+SMD,L3,+ coverage-aware masks,1,2048.0,VUS_ROC,0.7815
+SMD,L3,+ coverage-aware masks,1,2048.0,VUS_PR,0.1776
+SMD,L3,+ coverage-aware masks,2,2048.0,AUC_ROC,0.7738
+SMD,L3,+ coverage-aware masks,2,2048.0,R_AUC_ROC,0.7925
+SMD,L3,+ coverage-aware masks,2,2048.0,R_AUC_PR,0.2061
+SMD,L3,+ coverage-aware masks,2,2048.0,VUS_ROC,0.7909
+SMD,L3,+ coverage-aware masks,2,2048.0,VUS_PR,0.2057
+SMD,L3,+ coverage-aware masks,3,2048.0,AUC_ROC,0.7701
+SMD,L3,+ coverage-aware masks,3,2048.0,R_AUC_ROC,0.7888
+SMD,L3,+ coverage-aware masks,3,2048.0,R_AUC_PR,0.1866
+SMD,L3,+ coverage-aware masks,3,2048.0,VUS_ROC,0.7869
+SMD,L3,+ coverage-aware masks,3,2048.0,VUS_PR,0.1865
+SMD,L3,+ coverage-aware masks,4,2048.0,AUC_ROC,0.7293
+SMD,L3,+ coverage-aware masks,4,2048.0,R_AUC_ROC,0.7559
+SMD,L3,+ coverage-aware masks,4,2048.0,R_AUC_PR,0.1284
+SMD,L3,+ coverage-aware masks,4,2048.0,VUS_ROC,0.7532
+SMD,L3,+ coverage-aware masks,4,2048.0,VUS_PR,0.1284
+SMD,L4,+ variance term,0,2048.0,AUC_ROC,0.7869
+SMD,L4,+ variance term,0,2048.0,R_AUC_ROC,0.8051
+SMD,L4,+ variance term,0,2048.0,R_AUC_PR,0.206
+SMD,L4,+ variance term,0,2048.0,VUS_ROC,0.8032
+SMD,L4,+ variance term,0,2048.0,VUS_PR,0.2059
+SMD,L4,+ variance term,1,2048.0,AUC_ROC,0.7676
+SMD,L4,+ variance term,1,2048.0,R_AUC_ROC,0.7853
+SMD,L4,+ variance term,1,2048.0,R_AUC_PR,0.183
+SMD,L4,+ variance term,1,2048.0,VUS_ROC,0.7834
+SMD,L4,+ variance term,1,2048.0,VUS_PR,0.1829
+SMD,L4,+ variance term,2,2048.0,AUC_ROC,0.7841
+SMD,L4,+ variance term,2,2048.0,R_AUC_ROC,0.8017
+SMD,L4,+ variance term,2,2048.0,R_AUC_PR,0.2192
+SMD,L4,+ variance term,2,2048.0,VUS_ROC,0.8
+SMD,L4,+ variance term,2,2048.0,VUS_PR,0.2188
+SMD,L4,+ variance term,3,2048.0,AUC_ROC,0.7797
+SMD,L4,+ variance term,3,2048.0,R_AUC_ROC,0.7956
+SMD,L4,+ variance term,3,2048.0,R_AUC_PR,0.1958
+SMD,L4,+ variance term,3,2048.0,VUS_ROC,0.7937
+SMD,L4,+ variance term,3,2048.0,VUS_PR,0.1956
+SMD,L4,+ variance term,4,2048.0,AUC_ROC,0.7504
+SMD,L4,+ variance term,4,2048.0,R_AUC_ROC,0.7707
+SMD,L4,+ variance term,4,2048.0,R_AUC_PR,0.1483
+SMD,L4,+ variance term,4,2048.0,VUS_ROC,0.7685
+SMD,L4,+ variance term,4,2048.0,VUS_PR,0.1483
+SMD,L5,+ frequency branch,0,2048.0,AUC_ROC,0.794
+SMD,L5,+ frequency branch,0,2048.0,R_AUC_ROC,0.8124
+SMD,L5,+ frequency branch,0,2048.0,R_AUC_PR,0.2079
+SMD,L5,+ frequency branch,0,2048.0,VUS_ROC,0.8095
+SMD,L5,+ frequency branch,0,2048.0,VUS_PR,0.2073
+SMD,L5,+ frequency branch,1,2048.0,AUC_ROC,0.7984
+SMD,L5,+ frequency branch,1,2048.0,R_AUC_ROC,0.8178
+SMD,L5,+ frequency branch,1,2048.0,R_AUC_PR,0.2138
+SMD,L5,+ frequency branch,1,2048.0,VUS_ROC,0.8145
+SMD,L5,+ frequency branch,1,2048.0,VUS_PR,0.2131
+SMD,L5,+ frequency branch,2,2048.0,AUC_ROC,0.7963
+SMD,L5,+ frequency branch,2,2048.0,R_AUC_ROC,0.815
+SMD,L5,+ frequency branch,2,2048.0,R_AUC_PR,0.2335
+SMD,L5,+ frequency branch,2,2048.0,VUS_ROC,0.812
+SMD,L5,+ frequency branch,2,2048.0,VUS_PR,0.2326
+SMD,L5,+ frequency branch,3,2048.0,AUC_ROC,0.805
+SMD,L5,+ frequency branch,3,2048.0,R_AUC_ROC,0.8236
+SMD,L5,+ frequency branch,3,2048.0,R_AUC_PR,0.2243
+SMD,L5,+ frequency branch,3,2048.0,VUS_ROC,0.8206
+SMD,L5,+ frequency branch,3,2048.0,VUS_PR,0.2234
+SMD,L5,+ frequency branch,4,2048.0,AUC_ROC,0.7932
+SMD,L5,+ frequency branch,4,2048.0,R_AUC_ROC,0.8112
+SMD,L5,+ frequency branch,4,2048.0,R_AUC_PR,0.2013
+SMD,L5,+ frequency branch,4,2048.0,VUS_ROC,0.8083
+SMD,L5,+ frequency branch,4,2048.0,VUS_PR,0.2007
+SMD,L6,+ multi-scale (CP-MAE),0,2048.0,AUC_ROC,0.8326
+SMD,L6,+ multi-scale (CP-MAE),0,2048.0,R_AUC_ROC,0.8467
+SMD,L6,+ multi-scale (CP-MAE),0,2048.0,R_AUC_PR,0.2339
+SMD,L6,+ multi-scale (CP-MAE),0,2048.0,VUS_ROC,0.8441
+SMD,L6,+ multi-scale (CP-MAE),0,2048.0,VUS_PR,0.2331
+SMD,L6,+ multi-scale (CP-MAE),1,2048.0,AUC_ROC,0.8035
+SMD,L6,+ multi-scale (CP-MAE),1,2048.0,R_AUC_ROC,0.8221
+SMD,L6,+ multi-scale (CP-MAE),1,2048.0,R_AUC_PR,0.2184
+SMD,L6,+ multi-scale (CP-MAE),1,2048.0,VUS_ROC,0.8191
+SMD,L6,+ multi-scale (CP-MAE),1,2048.0,VUS_PR,0.2178
+SMD,L6,+ multi-scale (CP-MAE),2,2048.0,AUC_ROC,0.8209
+SMD,L6,+ multi-scale (CP-MAE),2,2048.0,R_AUC_ROC,0.8418
+SMD,L6,+ multi-scale (CP-MAE),2,2048.0,R_AUC_PR,0.2369
+SMD,L6,+ multi-scale (CP-MAE),2,2048.0,VUS_ROC,0.8383
+SMD,L6,+ multi-scale (CP-MAE),2,2048.0,VUS_PR,0.2363
+SMD,L6,+ multi-scale (CP-MAE),3,2048.0,AUC_ROC,0.8152
+SMD,L6,+ multi-scale (CP-MAE),3,2048.0,R_AUC_ROC,0.8339
+SMD,L6,+ multi-scale (CP-MAE),3,2048.0,R_AUC_PR,0.2177
+SMD,L6,+ multi-scale (CP-MAE),3,2048.0,VUS_ROC,0.8309
+SMD,L6,+ multi-scale (CP-MAE),3,2048.0,VUS_PR,0.217
+SMD,L6,+ multi-scale (CP-MAE),4,2048.0,AUC_ROC,0.8189
+SMD,L6,+ multi-scale (CP-MAE),4,2048.0,R_AUC_ROC,0.8385
+SMD,L6,+ multi-scale (CP-MAE),4,2048.0,R_AUC_PR,0.2553
+SMD,L6,+ multi-scale (CP-MAE),4,2048.0,VUS_ROC,0.8357
+SMD,L6,+ multi-scale (CP-MAE),4,2048.0,VUS_PR,0.2545
+SWaT,L0,base masked autoencoder,0,2048.0,AUC_ROC,0.6801
+SWaT,L0,base masked autoencoder,0,2048.0,R_AUC_ROC,0.8219
+SWaT,L0,base masked autoencoder,0,2048.0,R_AUC_PR,0.1387
+SWaT,L0,base masked autoencoder,0,2048.0,VUS_ROC,0.7997
+SWaT,L0,base masked autoencoder,0,2048.0,VUS_PR,0.1272
+SWaT,L0,base masked autoencoder,1,2048.0,AUC_ROC,0.7092
+SWaT,L0,base masked autoencoder,1,2048.0,R_AUC_ROC,0.836
+SWaT,L0,base masked autoencoder,1,2048.0,R_AUC_PR,0.1485
+SWaT,L0,base masked autoencoder,1,2048.0,VUS_ROC,0.8156
+SWaT,L0,base masked autoencoder,1,2048.0,VUS_PR,0.1361
+SWaT,L0,base masked autoencoder,2,2048.0,AUC_ROC,0.7161
+SWaT,L0,base masked autoencoder,2,2048.0,R_AUC_ROC,0.8353
+SWaT,L0,base masked autoencoder,2,2048.0,R_AUC_PR,0.143
+SWaT,L0,base masked autoencoder,2,2048.0,VUS_ROC,0.816
+SWaT,L0,base masked autoencoder,2,2048.0,VUS_PR,0.1325
+SWaT,L0,base masked autoencoder,3,2048.0,AUC_ROC,0.7072
+SWaT,L0,base masked autoencoder,3,2048.0,R_AUC_ROC,0.8284
+SWaT,L0,base masked autoencoder,3,2048.0,R_AUC_PR,0.1407
+SWaT,L0,base masked autoencoder,3,2048.0,VUS_ROC,0.8097
+SWaT,L0,base masked autoencoder,3,2048.0,VUS_PR,0.1294
+SWaT,L0,base masked autoencoder,4,2048.0,AUC_ROC,0.7384
+SWaT,L0,base masked autoencoder,4,2048.0,R_AUC_ROC,0.8389
+SWaT,L0,base masked autoencoder,4,2048.0,R_AUC_PR,0.1519
+SWaT,L0,base masked autoencoder,4,2048.0,VUS_ROC,0.8241
+SWaT,L0,base masked autoencoder,4,2048.0,VUS_PR,0.1423
+SWaT,L1,+ high training masking,0,2048.0,AUC_ROC,0.762
+SWaT,L1,+ high training masking,0,2048.0,R_AUC_ROC,0.8474
+SWaT,L1,+ high training masking,0,2048.0,R_AUC_PR,0.1667
+SWaT,L1,+ high training masking,0,2048.0,VUS_ROC,0.8349
+SWaT,L1,+ high training masking,0,2048.0,VUS_PR,0.1568
+SWaT,L1,+ high training masking,1,2048.0,AUC_ROC,0.6154
+SWaT,L1,+ high training masking,1,2048.0,R_AUC_ROC,0.7904
+SWaT,L1,+ high training masking,1,2048.0,R_AUC_PR,0.1287
+SWaT,L1,+ high training masking,1,2048.0,VUS_ROC,0.7625
+SWaT,L1,+ high training masking,1,2048.0,VUS_PR,0.1184
+SWaT,L1,+ high training masking,2,2048.0,AUC_ROC,0.7085
+SWaT,L1,+ high training masking,2,2048.0,R_AUC_ROC,0.8222
+SWaT,L1,+ high training masking,2,2048.0,R_AUC_PR,0.1449
+SWaT,L1,+ high training masking,2,2048.0,VUS_ROC,0.8063
+SWaT,L1,+ high training masking,2,2048.0,VUS_PR,0.1368
+SWaT,L1,+ high training masking,3,2048.0,AUC_ROC,0.7375
+SWaT,L1,+ high training masking,3,2048.0,R_AUC_ROC,0.8297
+SWaT,L1,+ high training masking,3,2048.0,R_AUC_PR,0.1504
+SWaT,L1,+ high training masking,3,2048.0,VUS_ROC,0.8177
+SWaT,L1,+ high training masking,3,2048.0,VUS_PR,0.1415
+SWaT,L1,+ high training masking,4,2048.0,AUC_ROC,0.7414
+SWaT,L1,+ high training masking,4,2048.0,R_AUC_ROC,0.8386
+SWaT,L1,+ high training masking,4,2048.0,R_AUC_PR,0.1541
+SWaT,L1,+ high training masking,4,2048.0,VUS_ROC,0.8239
+SWaT,L1,+ high training masking,4,2048.0,VUS_PR,0.1449
+SWaT,L2,+ Monte Carlo averaging,0,2048.0,AUC_ROC,0.8127
+SWaT,L2,+ Monte Carlo averaging,0,2048.0,R_AUC_ROC,0.8691
+SWaT,L2,+ Monte Carlo averaging,0,2048.0,R_AUC_PR,0.1882
+SWaT,L2,+ Monte Carlo averaging,0,2048.0,VUS_ROC,0.8597
+SWaT,L2,+ Monte Carlo averaging,0,2048.0,VUS_PR,0.1766
+SWaT,L2,+ Monte Carlo averaging,1,2048.0,AUC_ROC,0.792
+SWaT,L2,+ Monte Carlo averaging,1,2048.0,R_AUC_ROC,0.869
+SWaT,L2,+ Monte Carlo averaging,1,2048.0,R_AUC_PR,0.2051
+SWaT,L2,+ Monte Carlo averaging,1,2048.0,VUS_ROC,0.8558
+SWaT,L2,+ Monte Carlo averaging,1,2048.0,VUS_PR,0.1901
+SWaT,L2,+ Monte Carlo averaging,2,2048.0,AUC_ROC,0.7777
+SWaT,L2,+ Monte Carlo averaging,2,2048.0,R_AUC_ROC,0.861
+SWaT,L2,+ Monte Carlo averaging,2,2048.0,R_AUC_PR,0.1731
+SWaT,L2,+ Monte Carlo averaging,2,2048.0,VUS_ROC,0.8473
+SWaT,L2,+ Monte Carlo averaging,2,2048.0,VUS_PR,0.1614
+SWaT,L2,+ Monte Carlo averaging,3,2048.0,AUC_ROC,0.7969
+SWaT,L2,+ Monte Carlo averaging,3,2048.0,R_AUC_ROC,0.8726
+SWaT,L2,+ Monte Carlo averaging,3,2048.0,R_AUC_PR,0.1948
+SWaT,L2,+ Monte Carlo averaging,3,2048.0,VUS_ROC,0.8596
+SWaT,L2,+ Monte Carlo averaging,3,2048.0,VUS_PR,0.1819
+SWaT,L2,+ Monte Carlo averaging,4,2048.0,AUC_ROC,0.7657
+SWaT,L2,+ Monte Carlo averaging,4,2048.0,R_AUC_ROC,0.8387
+SWaT,L2,+ Monte Carlo averaging,4,2048.0,R_AUC_PR,0.1584
+SWaT,L2,+ Monte Carlo averaging,4,2048.0,VUS_ROC,0.8264
+SWaT,L2,+ Monte Carlo averaging,4,2048.0,VUS_PR,0.148
+SWaT,L3,+ coverage-aware masks,0,2048.0,AUC_ROC,0.778
+SWaT,L3,+ coverage-aware masks,0,2048.0,R_AUC_ROC,0.8585
+SWaT,L3,+ coverage-aware masks,0,2048.0,R_AUC_PR,0.1915
+SWaT,L3,+ coverage-aware masks,0,2048.0,VUS_ROC,0.845
+SWaT,L3,+ coverage-aware masks,0,2048.0,VUS_PR,0.1811
+SWaT,L3,+ coverage-aware masks,1,2048.0,AUC_ROC,0.7968
+SWaT,L3,+ coverage-aware masks,1,2048.0,R_AUC_ROC,0.8726
+SWaT,L3,+ coverage-aware masks,1,2048.0,R_AUC_PR,0.1968
+SWaT,L3,+ coverage-aware masks,1,2048.0,VUS_ROC,0.8598
+SWaT,L3,+ coverage-aware masks,1,2048.0,VUS_PR,0.1838
+SWaT,L3,+ coverage-aware masks,2,2048.0,AUC_ROC,0.7704
+SWaT,L3,+ coverage-aware masks,2,2048.0,R_AUC_ROC,0.8514
+SWaT,L3,+ coverage-aware masks,2,2048.0,R_AUC_PR,0.1699
+SWaT,L3,+ coverage-aware masks,2,2048.0,VUS_ROC,0.8374
+SWaT,L3,+ coverage-aware masks,2,2048.0,VUS_PR,0.1575
+SWaT,L3,+ coverage-aware masks,3,2048.0,AUC_ROC,0.7975
+SWaT,L3,+ coverage-aware masks,3,2048.0,R_AUC_ROC,0.8723
+SWaT,L3,+ coverage-aware masks,3,2048.0,R_AUC_PR,0.1988
+SWaT,L3,+ coverage-aware masks,3,2048.0,VUS_ROC,0.8591
+SWaT,L3,+ coverage-aware masks,3,2048.0,VUS_PR,0.1851
+SWaT,L3,+ coverage-aware masks,4,2048.0,AUC_ROC,0.78
+SWaT,L3,+ coverage-aware masks,4,2048.0,R_AUC_ROC,0.8604
+SWaT,L3,+ coverage-aware masks,4,2048.0,R_AUC_PR,0.1701
+SWaT,L3,+ coverage-aware masks,4,2048.0,VUS_ROC,0.847
+SWaT,L3,+ coverage-aware masks,4,2048.0,VUS_PR,0.1581
+SWaT,L4,+ variance term,0,2048.0,AUC_ROC,0.802
+SWaT,L4,+ variance term,0,2048.0,R_AUC_ROC,0.8775
+SWaT,L4,+ variance term,0,2048.0,R_AUC_PR,0.1924
+SWaT,L4,+ variance term,0,2048.0,VUS_ROC,0.8624
+SWaT,L4,+ variance term,0,2048.0,VUS_PR,0.1764
+SWaT,L4,+ variance term,1,2048.0,AUC_ROC,0.7905
+SWaT,L4,+ variance term,1,2048.0,R_AUC_ROC,0.8661
+SWaT,L4,+ variance term,1,2048.0,R_AUC_PR,0.203
+SWaT,L4,+ variance term,1,2048.0,VUS_ROC,0.8547
+SWaT,L4,+ variance term,1,2048.0,VUS_PR,0.1896
+SWaT,L4,+ variance term,2,2048.0,AUC_ROC,0.754
+SWaT,L4,+ variance term,2,2048.0,R_AUC_ROC,0.8451
+SWaT,L4,+ variance term,2,2048.0,R_AUC_PR,0.1713
+SWaT,L4,+ variance term,2,2048.0,VUS_ROC,0.8278
+SWaT,L4,+ variance term,2,2048.0,VUS_PR,0.1562
+SWaT,L4,+ variance term,3,2048.0,AUC_ROC,0.783
+SWaT,L4,+ variance term,3,2048.0,R_AUC_ROC,0.8725
+SWaT,L4,+ variance term,3,2048.0,R_AUC_PR,0.2133
+SWaT,L4,+ variance term,3,2048.0,VUS_ROC,0.8557
+SWaT,L4,+ variance term,3,2048.0,VUS_PR,0.1959
+SWaT,L4,+ variance term,4,2048.0,AUC_ROC,0.7534
+SWaT,L4,+ variance term,4,2048.0,R_AUC_ROC,0.8549
+SWaT,L4,+ variance term,4,2048.0,R_AUC_PR,0.1754
+SWaT,L4,+ variance term,4,2048.0,VUS_ROC,0.8369
+SWaT,L4,+ variance term,4,2048.0,VUS_PR,0.1603
+SWaT,L5,+ frequency branch,0,2048.0,AUC_ROC,0.7911
+SWaT,L5,+ frequency branch,0,2048.0,R_AUC_ROC,0.872
+SWaT,L5,+ frequency branch,0,2048.0,R_AUC_PR,0.184
+SWaT,L5,+ frequency branch,0,2048.0,VUS_ROC,0.8578
+SWaT,L5,+ frequency branch,0,2048.0,VUS_PR,0.17
+SWaT,L5,+ frequency branch,1,2048.0,AUC_ROC,0.7815
+SWaT,L5,+ frequency branch,1,2048.0,R_AUC_ROC,0.8769
+SWaT,L5,+ frequency branch,1,2048.0,R_AUC_PR,0.1939
+SWaT,L5,+ frequency branch,1,2048.0,VUS_ROC,0.8602
+SWaT,L5,+ frequency branch,1,2048.0,VUS_PR,0.1784
+SWaT,L5,+ frequency branch,2,2048.0,AUC_ROC,0.7534
+SWaT,L5,+ frequency branch,2,2048.0,R_AUC_ROC,0.8496
+SWaT,L5,+ frequency branch,2,2048.0,R_AUC_PR,0.1684
+SWaT,L5,+ frequency branch,2,2048.0,VUS_ROC,0.8326
+SWaT,L5,+ frequency branch,2,2048.0,VUS_PR,0.1556
+SWaT,L5,+ frequency branch,3,2048.0,AUC_ROC,0.7753
+SWaT,L5,+ frequency branch,3,2048.0,R_AUC_ROC,0.8702
+SWaT,L5,+ frequency branch,3,2048.0,R_AUC_PR,0.1962
+SWaT,L5,+ frequency branch,3,2048.0,VUS_ROC,0.8542
+SWaT,L5,+ frequency branch,3,2048.0,VUS_PR,0.1802
+SWaT,L5,+ frequency branch,4,2048.0,AUC_ROC,0.7536
+SWaT,L5,+ frequency branch,4,2048.0,R_AUC_ROC,0.8518
+SWaT,L5,+ frequency branch,4,2048.0,R_AUC_PR,0.1651
+SWaT,L5,+ frequency branch,4,2048.0,VUS_ROC,0.8355
+SWaT,L5,+ frequency branch,4,2048.0,VUS_PR,0.1525
+SWaT,L6,+ multi-scale (CP-MAE),0,2048.0,AUC_ROC,0.7954
+SWaT,L6,+ multi-scale (CP-MAE),0,2048.0,R_AUC_ROC,0.8841
+SWaT,L6,+ multi-scale (CP-MAE),0,2048.0,R_AUC_PR,0.2093
+SWaT,L6,+ multi-scale (CP-MAE),0,2048.0,VUS_ROC,0.8682
+SWaT,L6,+ multi-scale (CP-MAE),0,2048.0,VUS_PR,0.1942
+SWaT,L6,+ multi-scale (CP-MAE),1,2048.0,AUC_ROC,0.7968
+SWaT,L6,+ multi-scale (CP-MAE),1,2048.0,R_AUC_ROC,0.8807
+SWaT,L6,+ multi-scale (CP-MAE),1,2048.0,R_AUC_PR,0.2069
+SWaT,L6,+ multi-scale (CP-MAE),1,2048.0,VUS_ROC,0.867
+SWaT,L6,+ multi-scale (CP-MAE),1,2048.0,VUS_PR,0.1912
+SWaT,L6,+ multi-scale (CP-MAE),2,2048.0,AUC_ROC,0.7916
+SWaT,L6,+ multi-scale (CP-MAE),2,2048.0,R_AUC_ROC,0.879
+SWaT,L6,+ multi-scale (CP-MAE),2,2048.0,R_AUC_PR,0.2049
+SWaT,L6,+ multi-scale (CP-MAE),2,2048.0,VUS_ROC,0.8646
+SWaT,L6,+ multi-scale (CP-MAE),2,2048.0,VUS_PR,0.1897
+SWaT,L6,+ multi-scale (CP-MAE),3,2048.0,AUC_ROC,0.7965
+SWaT,L6,+ multi-scale (CP-MAE),3,2048.0,R_AUC_ROC,0.8889
+SWaT,L6,+ multi-scale (CP-MAE),3,2048.0,R_AUC_PR,0.2091
+SWaT,L6,+ multi-scale (CP-MAE),3,2048.0,VUS_ROC,0.8732
+SWaT,L6,+ multi-scale (CP-MAE),3,2048.0,VUS_PR,0.1912
+SWaT,L6,+ multi-scale (CP-MAE),4,2048.0,AUC_ROC,0.7804
+SWaT,L6,+ multi-scale (CP-MAE),4,2048.0,R_AUC_ROC,0.8688
+SWaT,L6,+ multi-scale (CP-MAE),4,2048.0,R_AUC_PR,0.1906
+SWaT,L6,+ multi-scale (CP-MAE),4,2048.0,VUS_ROC,0.8547
+SWaT,L6,+ multi-scale (CP-MAE),4,2048.0,VUS_PR,0.1759
+LTDB,L0,base masked autoencoder,0,512,AUC_ROC,0.6207
+LTDB,L0,base masked autoencoder,0,512,R_AUC_ROC,0.7108
+LTDB,L0,base masked autoencoder,0,512,R_AUC_PR,0.2737
+LTDB,L0,base masked autoencoder,0,512,VUS_ROC,0.7065
+LTDB,L0,base masked autoencoder,0,512,VUS_PR,0.2678
+LTDB,L0,base masked autoencoder,1,512,AUC_ROC,0.6167
+LTDB,L0,base masked autoencoder,1,512,R_AUC_ROC,0.7062
+LTDB,L0,base masked autoencoder,1,512,R_AUC_PR,0.2691
+LTDB,L0,base masked autoencoder,1,512,VUS_ROC,0.7037
+LTDB,L0,base masked autoencoder,1,512,VUS_PR,0.2647
+LTDB,L0,base masked autoencoder,2,512,AUC_ROC,0.59
+LTDB,L0,base masked autoencoder,2,512,R_AUC_ROC,0.687
+LTDB,L0,base masked autoencoder,2,512,R_AUC_PR,0.2605
+LTDB,L0,base masked autoencoder,2,512,VUS_ROC,0.6827
+LTDB,L0,base masked autoencoder,2,512,VUS_PR,0.2551
+SMD,L5b,"L4 + multi-scale, time branch only",0,2048,AUC_ROC,0.7744
+SMD,L5b,"L4 + multi-scale, time branch only",0,2048,R_AUC_ROC,0.7933
+SMD,L5b,"L4 + multi-scale, time branch only",0,2048,R_AUC_PR,0.196
+SMD,L5b,"L4 + multi-scale, time branch only",0,2048,VUS_ROC,0.791
+SMD,L5b,"L4 + multi-scale, time branch only",0,2048,VUS_PR,0.1958
+SMD,L5b,"L4 + multi-scale, time branch only",1,2048,AUC_ROC,0.7584
+SMD,L5b,"L4 + multi-scale, time branch only",1,2048,R_AUC_ROC,0.7818
+SMD,L5b,"L4 + multi-scale, time branch only",1,2048,R_AUC_PR,0.1937
+SMD,L5b,"L4 + multi-scale, time branch only",1,2048,VUS_ROC,0.7798
+SMD,L5b,"L4 + multi-scale, time branch only",1,2048,VUS_PR,0.1937
+SMD,L5b,"L4 + multi-scale, time branch only",2,2048,AUC_ROC,0.7752
+SMD,L5b,"L4 + multi-scale, time branch only",2,2048,R_AUC_ROC,0.7951
+SMD,L5b,"L4 + multi-scale, time branch only",2,2048,R_AUC_PR,0.2083
+SMD,L5b,"L4 + multi-scale, time branch only",2,2048,VUS_ROC,0.7931
+SMD,L5b,"L4 + multi-scale, time branch only",2,2048,VUS_PR,0.2082
+SMD,L5b,"L4 + multi-scale, time branch only",3,2048,AUC_ROC,0.7663
+SMD,L5b,"L4 + multi-scale, time branch only",3,2048,R_AUC_ROC,0.7858
+SMD,L5b,"L4 + multi-scale, time branch only",3,2048,R_AUC_PR,0.1841
+SMD,L5b,"L4 + multi-scale, time branch only",3,2048,VUS_ROC,0.7838
+SMD,L5b,"L4 + multi-scale, time branch only",3,2048,VUS_PR,0.184
+SMD,L5b,"L4 + multi-scale, time branch only",4,2048,AUC_ROC,0.7644
+SMD,L5b,"L4 + multi-scale, time branch only",4,2048,R_AUC_ROC,0.7832
+SMD,L5b,"L4 + multi-scale, time branch only",4,2048,R_AUC_PR,0.1646
+SMD,L5b,"L4 + multi-scale, time branch only",4,2048,VUS_ROC,0.7809
+SMD,L5b,"L4 + multi-scale, time branch only",4,2048,VUS_PR,0.1646
+SWaT,L5b,"L4 + multi-scale, time branch only",0,2048,AUC_ROC,0.7916
+SWaT,L5b,"L4 + multi-scale, time branch only",0,2048,R_AUC_ROC,0.8733
+SWaT,L5b,"L4 + multi-scale, time branch only",0,2048,R_AUC_PR,0.1996
+SWaT,L5b,"L4 + multi-scale, time branch only",0,2048,VUS_ROC,0.8588
+SWaT,L5b,"L4 + multi-scale, time branch only",0,2048,VUS_PR,0.1831
+SWaT,L5b,"L4 + multi-scale, time branch only",1,2048,AUC_ROC,0.8098
+SWaT,L5b,"L4 + multi-scale, time branch only",1,2048,R_AUC_ROC,0.8871
+SWaT,L5b,"L4 + multi-scale, time branch only",1,2048,R_AUC_PR,0.2299
+SWaT,L5b,"L4 + multi-scale, time branch only",1,2048,VUS_ROC,0.8733
+SWaT,L5b,"L4 + multi-scale, time branch only",1,2048,VUS_PR,0.2116
+SWaT,L5b,"L4 + multi-scale, time branch only",2,2048,AUC_ROC,0.8039
+SWaT,L5b,"L4 + multi-scale, time branch only",2,2048,R_AUC_ROC,0.884
+SWaT,L5b,"L4 + multi-scale, time branch only",2,2048,R_AUC_PR,0.2219
+SWaT,L5b,"L4 + multi-scale, time branch only",2,2048,VUS_ROC,0.8693
+SWaT,L5b,"L4 + multi-scale, time branch only",2,2048,VUS_PR,0.2048
+SWaT,L5b,"L4 + multi-scale, time branch only",3,2048,AUC_ROC,0.7436
+SWaT,L5b,"L4 + multi-scale, time branch only",3,2048,R_AUC_ROC,0.8433
+SWaT,L5b,"L4 + multi-scale, time branch only",3,2048,R_AUC_PR,0.1654
+SWaT,L5b,"L4 + multi-scale, time branch only",3,2048,VUS_ROC,0.8272
+SWaT,L5b,"L4 + multi-scale, time branch only",3,2048,VUS_PR,0.1519
+SWaT,L5b,"L4 + multi-scale, time branch only",4,2048,AUC_ROC,0.7921
+SWaT,L5b,"L4 + multi-scale, time branch only",4,2048,R_AUC_ROC,0.8723
+SWaT,L5b,"L4 + multi-scale, time branch only",4,2048,R_AUC_PR,0.1994
+SWaT,L5b,"L4 + multi-scale, time branch only",4,2048,VUS_ROC,0.8587
+SWaT,L5b,"L4 + multi-scale, time branch only",4,2048,VUS_PR,0.1852

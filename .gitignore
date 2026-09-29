@@ -1,0 +1,35 @@
+# Datasets come from their original providers; see dataset/README.md.
+# The per-dataset folders and the download cache are ignored. The script,
+# the README and the checksums are not.
+dataset/*/
+dataset/*.tgz
+dataset/build.log
+
+# Raw run outputs, attached to the tagged release instead
+*.npz
+/result/
+/results/*
+# the per-run baseline results every table is built from are versioned
+!/results/baselines_paper/
+# per-run results of the Table 4 ablation variants
+!/results/Ablation/
+
+# Working files
+*.tgz
+*.lock/
+*.bak
+*.bak_*
+*.pre-repair
+*.zip
+exp/error*.txt
+exp/fingerprint_old.txt
+exp/results/contamination.void.csv
+
+# Environment noise
+venv/
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+.jbeval/
+.DS_Store

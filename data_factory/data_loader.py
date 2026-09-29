@@ -235,6 +235,13 @@ class LTDBSegLoader(Dataset):
 
         data = pd.read_csv(data_path + '/LTDB.csv')
         print(data.shape)
+        # LTDB.csv must hold the row index plus the two ECG channels and nothing
+        # else. A four-column variant with the label appended would be read here
+        # as a third input channel and would leak the target into training.
+        assert data.shape[1] - 1 == 2, (
+            "LTDB.csv must have 2 channels (index + ECG1 + ECG2); got %d. "
+            "Labels belong in LTDB_label.csv, not in LTDB.csv."
+            % (data.shape[1] - 1))
         train_valid_split = int(len(data) * 0.05)
         data_val = data.iloc[-train_valid_split:, 1:].values
         data = data.iloc[:-train_valid_split, :]
